@@ -66,3 +66,33 @@ body {
     align-items: center;
     justify-content: center;
 }
+
+.heading-text
+{
+    color:#303050;
+    font-size: 66px;
+    margin-left: 12%;
+}
+
+.heading-text span{
+    color: #6c5ce7;
+}
+
+.description
+{
+    margin-left: 9%;
+}
+
+.nav-button 
+{
+    background-color: #6c5ce7;
+    color: #ffffff;
+    padding: 10px;
+    border: solid #6c5ce7;
+    border-radius: 4px;
+    width: 200px;
+    font-size: 20px;
+    font-family: Poppins sans-serif;
+    font-weight: 800;
+    line-height: 16px;
+}
